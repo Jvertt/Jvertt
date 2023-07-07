@@ -5,4 +5,4 @@ I am a highly motivated and team oriented person who absolutley loves to learn n
 
 ### My Projects 
 
-- [Gaussian]([https://github.com/Jvertt/Guassian])
+- [Gaussian](https://github.com/Jvertt/Guassian)
