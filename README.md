@@ -7,7 +7,8 @@ I am a highly motivated and team oriented person who absolutely loves to learn n
 
 - [Gaussian](https://github.com/Jvertt/Guassian) a customizable dashboard app that scrapes the web to algorithmically generated summaries, patent updates, and exclusive beta sign-up options.
 - [Surf-Status](https://github.com/Jvertt/surf-status) a surf spot app that allows users to view surf spot from all over the word! users can add new surf spots, remove them and see the spots displayed in a rotating gallery.
-- [Audio-Alchemy](https://github.com/Jvertt/Audio-Alchemy) a python CLI used to create songs,artists and playlists, this CLI utilites SQLAlchemy 
+- [Audio-Alchemy](https://github.com/Jvertt/Audio-Alchemy) a python CLI used to create songs,artists and playlists, this CLI utilites SQLAlchemy
+- [Bionic](https://github.com/Jvertt/Bionic) a Google Chrome extension that converts websites to bionic text in order to make reading easier and more efficient for those with ADHD/focus inhibiting conditons.
 
 ## Hobbies
 
